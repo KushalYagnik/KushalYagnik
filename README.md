@@ -4,9 +4,11 @@
 #### I'm currently working on personal side projects, meanwhile <ins>seeking full-time opportunities in web development</ins>. 
 #### I am proficient in the following tech stack and have demonstrated ability to quickly adapt to new technologies as well:
 #### <ul><li>Front-End.........….....<em>HTML5 | CSS3 | JavaScript | Document Object Model (DOM) APIs | SASS/SCSS | React.js</li></em><li>Back-End…...............<em>Node.js | Express.js | REST APIs | SOAP APIs | User Authentication</em></li><li>Databases.............…<em>MySQL | MongoDB</li></em><li>Testing………............<em>Jest | Enzyme</em></li><li>DevOps Tools…......<em>Heroku | GitHub | Webpack</em></li><li>IoT technologies….<em>Raspberry Pi</em></li>
-<br/>
+
 
 #### Connect with me on LinkedIn @ https://linkedin.com/in/kushal-yagnik27
+  <br/>
+  <hr/>
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KushalYagnik&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalYagnik&layout=compact)
