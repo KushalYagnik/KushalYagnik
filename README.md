@@ -7,6 +7,8 @@
 
 
 #### Connect with me on LinkedIn @ https://linkedin.com/in/kushal-yagnik27
+#### OR
+#### Write to me on kushalyagnik@gmail.com
   <br/>
   <hr/>
   
