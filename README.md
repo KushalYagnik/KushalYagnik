@@ -12,8 +12,12 @@
   <br/>
   <hr/>
   
-![Github stats](https://github-readme-stats.vercel.app/api?username=KushalYagnik&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalYagnik&layout=compact)
+
+<div>
+  <img src='https://github-readme-stats.vercel.app/api?username=KushalYagnik&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true' />
+  <img align='right' src='https://github-readme-stats.vercel.app/api/top-langs/?username=KushalYagnik&layout=compact' />
+</div>
+
 <!--
 **KushalYagnik/KushalYagnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,4 +34,7 @@ I write web applications and love exploring the world of computer science. I'm c
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KushalYagnik&theme=vision-friendly-dark&show_icons=true&count_private=true&include_all_commits=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KushalYagnik&layout=compact)
 -->
